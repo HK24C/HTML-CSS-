@@ -1,0 +1,16 @@
+.form{
+    padding-inline: center;
+    background-color: rgb(95, 137, 169);
+    color-interpolation-filters: linearRGB;
+}
+.bd{
+    background-color: rgb(183, 191, 191);
+
+    text-align: center;
+    font-weight: 100;
+}
+.tt{
+    text-align: auto;
+    border-radius: 3pc;
+    color: rgb(68, 47, 255);
+}
